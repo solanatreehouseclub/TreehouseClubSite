@@ -152,7 +152,7 @@ export default function Home() {
                 Roadmap
               </h3>
               <span>
-                What's on the horizon for The Treehouse Club? Find out below.
+                Whats on the horizon for The Treehouse Club? Find out below.
               </span>
             </div>
             {/* Post Content
@@ -173,7 +173,7 @@ export default function Home() {
                         formed. 1 week after the launch All Gen1 members (anyone
                         who minted an NFT) will automatically become a member of
                         the DAO and will enjoy special benefits like airdrops,
-                        giveaways, Collab's with other projects (More info will
+                        giveaways, Collabs with other projects (More info will
                         be shared) soon 👀), and a special discord role verified
                         by grape protocol bot.
                       </div>
