@@ -7,11 +7,7 @@ export default function Home() {
     <>
   <meta httpEquiv="content-type" content="text/html; charset=utf-8" />
   <meta name="author" content="SemiColonWeb" />
-  <link
-    href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700|Chewy&display=swap"
-    rel="stylesheet"
-    type="text/css"
-  />
+
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
@@ -281,6 +277,7 @@ export default function Home() {
                   <a
                     href="https://discord.gg/4x4tMZaHhZ"
                     target="_blank"
+                    rel="noreferrer"
                     className="button button-large button-circle button-border button-grey button-light topmargin-sm ml-0"
                   >
                     JOIN NOW
