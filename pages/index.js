@@ -308,7 +308,7 @@ export default function Home() {
           </div>
           <div className="col-12 col-lg-auto text-center text-lg-right">
             <a
-              href="#"
+              href="https://twitter.com/TreehouseNFT"
               className="social-icon inline-block si-small si-borderless si-twitter"
             >
               <i className="icon-twitter" />
@@ -339,9 +339,9 @@ export default function Home() {
   {/* Go To Top
 	============================================= */}
   <div id="gotoTop" className="icon-angle-up" />
-  <script src="js/jquery.js"></script>
-	<script src="js/plugins.min.js"></script>
-	<script src="js/functions.js"></script>
+  <script async src="js/jquery.js"></script>
+	<script async src="js/plugins.min.js"></script>
+	<script async src="js/functions.js"></script>
 </>
 
   )
