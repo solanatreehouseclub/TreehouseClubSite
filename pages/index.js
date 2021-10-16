@@ -43,14 +43,14 @@ export default function Home() {
 						============================================= */}
             <div id="logo">
               <a
-                href="index.html"
+                href="#"
                 className="standard-logo"
                 data-dark-logo="images/logo-dark.png"
               >
-                <img src="images/logo.png" alt="Canvas Logo" />
+                <img src="images/logo-dark.png" alt="Canvas Logo" />
               </a>
               <a
-                href="index.html"
+                href="#"
                 className="retina-logo"
                 data-dark-logo="images/logo-dark@2x.png"
               >
@@ -275,7 +275,7 @@ export default function Home() {
                     Drop into Discord and follow us on Twitter.
                   </h3>
                   <a
-                    href="https://discord.gg/4x4tMZaHhZ"
+                    href="https://discord.gg/WeF5EzuAKT"
                     target="_blank"
                     rel="noreferrer"
                     className="button button-large button-circle button-border button-grey button-light topmargin-sm ml-0"
@@ -322,7 +322,7 @@ export default function Home() {
               <i className="icon-mail" />
             </a>
             <a
-              href="https://discord.gg/4x4tMZaHhZ"
+              href="https://discord.gg/WeF5EzuAKT"
               className="social-icon inline-block si-small si-borderless si-discord"
             >
               <i className="icon-discord" />
