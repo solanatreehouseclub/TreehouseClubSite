@@ -199,10 +199,10 @@ export default function Home() {
                   <div className="entry-image">
                     <div className="card">
                       <div className="card-body">
-                        The Treehouse Club Team will be working with experienced
-                        3D artists and designers to model 3D versions of each
-                        NFT. These will be made available in the metaverse and
-                        will be airdropping to the Gen1 minters for free.
+                        After Public Mint The Treehouse Club (DAO) will be formed. 
+			All Gen 1 Holders will be part of it and will enjoy special benefits 
+			like Airdrops, Giveaways, WL's, and Alpha. Along with Collab's 
+			with other projects (More info will be shared soon 👀).
                       </div>
                     </div>
                   </div>
@@ -215,12 +215,10 @@ export default function Home() {
                   <div className="entry-image">
                     <div className="card">
                       <div className="card-body">
-                        Our own marketplace this will be one of our primary
-                        focus after launch -why? The percentage % royalties
-                        taken by secondary marketplaces like Solanart &amp;
-                        Digitaleyes will be kept by the DAO and can be put to
-                        more uses on things the Club members decide by
-                        consensus.
+                        Our own marketplace primarily focused on 1/1 Artists and Auctions.
+			The percentage % royalties will be used to fill the Club wallet weekly 
+			and will be put to more uses on things the Club members decide 
+			though the DAO. Estimated delivery Q3 2022.
                       </div>
                     </div>
                   </div>
